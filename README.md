@@ -5,7 +5,8 @@ We should Here Predict SalePrice on various Conditions.
 
 So we split it into 2 parts
 - Part 1 is till we finish the preprocess step
-- Part 2 is getting dummies, splitting data, PCA, apply ML algos on it, evaluate our Model, Deployment of ML to webapp to predict custom data
+- Part 2 is a preprocess step also till we have all csv columns as dummies
+- Part 3 apply ML algos on it, evaluate our Model
 
 
 ### Data Description
